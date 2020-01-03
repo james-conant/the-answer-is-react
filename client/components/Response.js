@@ -14,7 +14,7 @@ export default class Response extends Component {
   }
   submitResponse(event) {
     // this function should fire when the user fills the response and hits 'enter'
-      // Is the user response correct? 
+      // Is the user response correct?
       // yes/no? What should happen?
   }
   render(){
